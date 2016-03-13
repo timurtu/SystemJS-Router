@@ -1,0 +1,24 @@
+{
+  "name": "systemjs-router",
+  "version": "1.0.0",
+  "description": "A framework agnostic SystemJS template router.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurtu/systemjs-router.git"
+  },
+  "keywords": [
+    "systemjs",
+    "router",
+    "framework"
+  ],
+  "author": "Timur Uzel <timurt.uzel@gmail.com> (http://timurtu.github.io/SystemJS-Router)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timurtu/systemjs-router/issues"
+  },
+  "homepage": "https://github.com/timurtu/systemjs-router#readme"
+}
