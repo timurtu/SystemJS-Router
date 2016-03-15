@@ -1,6 +1,6 @@
 {
   "name": "systemjs-router",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A framework agnostic SystemJS template router.",
   "main": "src/Router.js",
   "scripts": {
@@ -9,8 +9,7 @@
   "jspm": {
     "jspmNodeConversion": false,
     "format": "es6",
-    "dependencies": {
-    }
+    "dependencies": {}
   },
   "repository": {
     "type": "git",
