@@ -8,7 +8,7 @@ export default class Router {
     console.log('Router created');
   }
 
-  this.route(path) {
+  route(path) {
     console.log(`Route to  ${path}`);
   }
 
