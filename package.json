@@ -1,6 +1,6 @@
 {
   "name": "systemjs-router",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A framework agnostic SystemJS template router.",
   "main": "systemjs-router.js",
   "scripts": {
