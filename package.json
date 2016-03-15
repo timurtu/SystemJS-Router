@@ -2,7 +2,7 @@
   "name": "systemjs-router",
   "version": "1.0.1",
   "description": "A framework agnostic SystemJS template router.",
-  "main": "index.js",
+  "main": "src/Router.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
