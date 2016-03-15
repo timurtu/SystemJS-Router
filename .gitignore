@@ -5,4 +5,5 @@ config.js
 built/
 dist/
 bundle/
+npm-debug.log
 
