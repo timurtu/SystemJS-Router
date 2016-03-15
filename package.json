@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/timurtu/systemjs-router/issues"
   },
-  "homepage": "https://github.com/timurtu/systemjs-router#readme"
+  "homepage": "https://github.com/timurtu/systemjs-router#readme",
+  "devDependencies": {
+    "jspm": "^0.16.31"
+  }
 }
